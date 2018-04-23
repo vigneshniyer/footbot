@@ -1,0 +1,16 @@
+{
+  "name": "footbot",
+  "version": "0.0.1",
+  "description": "Its football, not soccer.",
+  "main": "footbot.js",
+  "scripts": {
+    "start": "node footbot.js"
+  },
+  "author": "Cartel",
+  "dependencies": {
+    "botkit": "^0.0.5"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
